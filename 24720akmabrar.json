@@ -1,252 +1,162 @@
 [
   {
-    "id": "1",
-    "image_url": "https://i.ibb.co/mSCdGxG/Health.png",
-    "category_name": "Health",
-    "category_title": "Support Health Initiatives",
-    "bg_color": "#FF5733",
-    "text_color": "#FFFFFF",
-    "btn_color": "#4CAF50",
-    "c_description": [
-      "Your support in the Health category is vital for improving healthcare access and services.",
-      "Contributions help provide essential medical supplies, support vaccination drives, and more.",
-      "Your generosity ensures better health outcomes for individuals and families in need.",
-      "Every donation in this category directly impacts lives and strengthens healthcare systems.",
-      "Join us in making a healthier world for all."
-    ],
-    "card_title": "Donate $115",
-    "full_view": "View Details",
-    "donation_price": 115
+    "id": 1,
+    "Image": "https://i.ibb.co/mSCdGxG/Health.png",
+    "Category": "Health",
+    "Title": "Support Health Initiatives",
+    "Category_bg": "bg-red-300",
+    "Card_bg": "bg-red-100",
+    "Text_color": "bg-red-900",
+    "Description": "Your support in the Health category is vital for improving healthcare access and services. Contributions help provide essential medical supplies, support vaccination drives, and more. Your generosity ensures better health outcomes for individuals and families in need. Every donation in this category directly impacts lives and strengthens healthcare systems. Join us in making a healthier world for all.",
+
+    "Price": 115
   },
 
     
   {
-    "id": "2",
-    "image_url": "https://i.ibb.co/mSCdGxG/Health.png",
-    "category_name": "Health",
-    "category_title": "Supporting Accessible Healthcare for All",
-    "bg_color": "#FF5733",
-    "text_color": "#FFFFFF",
-    "btn_color": "#4CAF50",
-    "c_description": [
-      "Your support in the Health category is vital for improving healthcare access and services.",
-      "Contributions help provide essential medical supplies, support vaccination drives, and more.",
-      "Your generosity ensures better health outcomes for individuals and families in need.",
-      "Every donation in this category directly impacts lives and strengthens healthcare systems.",
-      "Join us in making a healthier world for all."
-    ],
-    "card_title": "Donate $520",
-    "full_view": "View Details",
-    "donation_price": 520
+    "id": 2,
+    "Image": "https://i.ibb.co/mSCdGxG/Health.png",
+    "Category": "Health",
+    "Title": "Supporting Accessible Healthcare for All",
+    "Category_bg": "bg-red-300",
+    "Card_bg": "bg-red-100",
+    "Text_color": "bg-red-900",
+    "Description": "Your support in the Health category is vital for improving healthcare access and services. Contributions help provide essential medical supplies, support vaccination drives, and more. Your generosity ensures better health outcomes for individuals and families in need. Every donation in this category directly impacts lives and strengthens healthcare systems. Join us in making a healthier world for all.",
+    "Price": 520
   },
 
     
   {
-    "id": "3",
-    "image_url": "https://i.ibb.co/mSCdGxG/Health.png",
-    "category_name": "Health",
-    "category_title": "Improving Lives Through Medical Aid",
-    "bg_color": "#FF5733",
-    "text_color": "#FFFFFF",
-    "btn_color": "#4CAF50",
-    "c_description": [
-      "Your support in the Health category is vital for improving healthcare access and services.",
-      "Contributions help provide essential medical supplies, support vaccination drives, and more.",
-      "Your generosity ensures better health outcomes for individuals and families in need.",
-      "Every donation in this category directly impacts lives and strengthens healthcare systems.",
-      "Join us in making a healthier world for all."
-    ],
-    "card_title": "Donate $152",
-    "full_view": "View Details",
-    "donation_price": 152
+    "id": 3,
+    "Image": "https://i.ibb.co/mSCdGxG/Health.png",
+    "Category": "Health",
+    "Title": "Improving Lives Through Medical Aid",
+    "Category_bg": "bg-red-300",
+    "Card_bg": "bg-red-100",
+    "Text_color": "bg-red-900",
+    "Description": "Your support in the Health category is vital for improving healthcare access and services. Contributions help provide essential medical supplies, support vaccination drives, and more. Your generosity ensures better health outcomes for individuals and families in need. Every donation in this category directly impacts lives and strengthens healthcare systems. Join us in making a healthier world for all.",
+    "Price": 152
   },
 
     
   {
-    "id": "4",
-    "image_url": "https://i.ibb.co/zRXTG9n/Clothing.png",
-    "category_name": "Clothing",
-    "category_title": "Providing Warmth and Comfort",
-    "bg_color": "#E91E63",
-    "text_color": "#FFFFFF",
-    "btn_color": "#FF9800",
-    "c_description": [
-      "Your contributions in the Clothing category bring warmth and comfort to those in need.",
-      "Supporting this category means distributing warm winter jackets, blankets, and essentials.",
-      "Your generosity ensures that vulnerable individuals and families stay warm and protected.",
-      "Every donation in this category makes a tangible difference in people's lives.",
-      "Join us in providing warmth and care."
-    ],
-    "card_title": "Donate $192",
-    "full_view": "View Details",
-    "donation_price": 192
+    "id": 4,
+    "Image": "https://i.ibb.co/zRXTG9n/Clothing.png",
+    "Category": "Clothing",
+    "Title": "Providing Warmth and Comfort",
+    "Category_bg": "bg-pink-300",
+    "Card_bg": "bg-pink-100",
+    "Text_color": "bg-pink-900",
+    "Description":  "Your contributions in the Clothing category bring warmth and comfort to those in need. Supporting this category means distributing warm winter jackets, blankets, and essentials. Your generosity ensures that vulnerable individuals and families stay warm and protected. Every donation in this category makes a tangible difference in people's lives. Join us in providing warmth and care.",
+    "Price": 192
   },
 
     
   {
-    "id": "5",
-    "image_url": "https://i.ibb.co/zRXTG9n/Clothing.png",
-    "category_name": "Clothing",
-    "category_title": "Dressing with Dignity and Care",
-    "bg_color": "#E91E63",
-    "text_color": "#FFFFFF",
-    "btn_color": "#FF9800",
-    "c_description": [
-      "Your contributions in the Clothing category bring warmth and comfort to those in need.",
-      "Supporting this category means distributing warm winter jackets, blankets, and essentials.",
-      "Your generosity ensures that vulnerable individuals and families stay warm and protected.",
-      "Every donation in this category makes a tangible difference in people's lives.",
-      "Join us in providing warmth and care."
-    ],
-    "card_title": "Donate $120",
-    "full_view": "View Details",
-    "donation_price": 120
+    "id": 5,
+    "Image": "https://i.ibb.co/zRXTG9n/Clothing.png",
+    "Category": "Clothing",
+    "Title": "Dressing with Dignity and Care",
+    "Category_bg": "bg-pink-300",
+    "Card_bg": "bg-pink-100",
+    "Text_color": "bg-pink-900",
+    "Description":  "Your contributions in the Clothing category bring warmth and comfort to those in need. Supporting this category means distributing warm winter jackets, blankets, and essentials. Your generosity ensures that vulnerable individuals and families stay warm and protected. Every donation in this category makes a tangible difference in people's lives. Join us in providing warmth and care.",
+    "Price": 120
   },
 
     
   {
-    "id": "6",
-    "image_url": "https://i.ibb.co/zRXTG9n/Clothing.png",
-    "category_name": "Clothing",
-    "category_title": "Clothing the Vulnerable with Love",
-    "bg_color": "#E91E63",
-    "text_color": "#FFFFFF",
-    "btn_color": "#FF9800",
-    "c_description": [
-      "Your contributions in the Clothing category bring warmth and comfort to those in need.",
-      "Supporting this category means distributing warm winter jackets, blankets, and essentials.",
-      "Your generosity ensures that vulnerable individuals and families stay warm and protected.",
-      "Every donation in this category makes a tangible difference in people's lives.",
-      "Join us in providing warmth and care."
-    ],
-    "card_title": "Donate $150",
-    "full_view": "View Details",
-    "donation_price": 150
+    "id": 6,
+    "Image": "https://i.ibb.co/zRXTG9n/Clothing.png",
+    "Category": "Clothing",
+    "Title": "Clothing the Vulnerable with Love",
+    "Category_bg": "bg-pink-300",
+    "Card_bg": "bg-pink-100",
+    "Text_color": "bg-pink-900",
+    "Description": "Your contributions in the Clothing category bring warmth and comfort to those in need. Supporting this category means distributing warm winter jackets, blankets, and essentials. Your generosity ensures that vulnerable individuals and families stay warm and protected. Every donation in this category makes a tangible difference in people's lives. Join us in providing warmth and care.",
+    "Price": 150
   },
 
     
   {
-    "id": "7",
-    "image_url": "https://i.ibb.co/RvymWWJ/Food.png",
-    "category_name": "Food",
-    "category_title": "Fighting Hunger, Feeding Hope",
-    "bg_color": "#FFC107",
-    "text_color": "#000000",
-    "btn_color": "#FF5733",
-    "c_description": [
-      "Your contributions in the Food category help combat hunger by supporting food distribution programs.",
-      "Supporting this category means providing meal kits, supporting local food banks, and more.",
-      "Your generosity ensures that no one goes hungry in our communities.",
-      "Every donation here brings hope and nourishment to those in need.",
-      "Join us in the fight against hunger."
-    ],
-    "card_title": "Donate $100",
-    "full_view": "View Details",
-    "donation_price": 100
+    "id": 7,
+    "Image": "https://i.ibb.co/RvymWWJ/Food.png",
+    "Category": "Food",
+    "Title": "Fighting Hunger, Feeding Hope",
+    "Category_bg": "bg-yellow-300",
+    "Card_bg": "bg-yellow-100",
+    "Text_color": "bg-yellow-900",
+    "Description":  "Your contributions in the Food category help combat hunger by supporting food distribution programs. Supporting this category means providing meal kits, supporting local food banks, and more. Your generosity ensures that no one goes hungry in our communities. Every donation here brings hope and nourishment to those in need. Join us in the fight against hunger.",
+    "Price": 100
   },
 
     
   {
-    "id": "8",
-    "image_url": "https://i.ibb.co/NVpWW6B/rsz-news-article-91716-37396-1557996560.png",
-    "category_name": "Food",
-    "category_title": "Nourishing Communities in Need",
-    "bg_color": "#FFC107",
-    "text_color": "#000000",
-    "btn_color": "#FF5733",
-    "c_description": [
-      "Your contributions in the Food category help combat hunger by supporting food distribution programs.",
-      "Supporting this category means providing meal kits, supporting local food banks, and more.",
-      "Your generosity ensures that no one goes hungry in our communities.",
-      "Every donation here brings hope and nourishment to those in need.",
-      "Join us in the fight against hunger."
-    ],
-    "card_title": "Donate $170",
-    "full_view": "View Details",
-    "donation_price": 170
+    "id": 8,
+    "Image": "https://i.ibb.co/NVpWW6B/rsz-news-article-91716-37396-1557996560.png",
+    "Category": "Food",
+    "Title": "Nourishing Communities in Need",
+    "Category_bg": "bg-yellow-300",
+    "Card_bg": "bg-yellow-100",
+    "Text_color": "bg-yellow-900",
+    "Description":  "Your contributions in the Food category help combat hunger by supporting food distribution programs. Supporting this category means providing meal kits, supporting local food banks, and more. Your generosity ensures that no one goes hungry in our communities. Every donation here brings hope and nourishment to those in need. Join us in the fight against hunger.",
+    "Price": 170
   },
 
     
   {
-    "id": "9",
-    "image_url": "https://i.ibb.co/JssSbDZ/main.png",
-    "category_name": "Food",
-    "category_title": "Serving Meals, Sharing Hope",
-    "bg_color": "#FFC107",
-    "text_color": "#000000",
-    "btn_color": "#FF5733",
-    "c_description": [
-      "Your contributions in the Food category help combat hunger by supporting food distribution programs.",
-      "Supporting this category means providing meal kits, supporting local food banks, and more.",
-      "Your generosity ensures that no one goes hungry in our communities.",
-      "Every donation here brings hope and nourishment to those in need.",
-      "Join us in the fight against hunger."
-    ],
-    "card_title": "Donate $190",
-    "full_view": "View Details",
-    "donation_price": 190
+    "id": 9,
+    "Image": "https://i.ibb.co/JssSbDZ/main.png",
+    "Category": "Food",
+    "Title": "Serving Meals, Sharing Hope",
+    "Category_bg": "bg-yellow-300",
+    "Card_bg": "bg-yellow-100",
+    "Text_color": "bg-yellow-900",
+    "Description": "Your contributions in the Food category help combat hunger by supporting food distribution programs. Supporting this category means providing meal kits, supporting local food banks, and more. Your generosity ensures that no one goes hungry in our communities. Every donation here brings hope and nourishment to those in need. Join us in the fight against hunger.",
+    "Price": 190
+  },
+
+
+     
+  {
+    "id": 10,
+    "Image": "https://i.ibb.co/qxr66Qn/Education.png",
+    "Category": "Education",
+    "Title": "Education: A Path to Brighter Futures",
+    "Category_bg": "bg-blue-300",
+    "Card_bg": "bg-blue-100",
+    "Text_color": "bg-blue-900",
+    "Description": "Your contributions in the Education category empower children and youth with quality education. Supporting this category means providing school supplies, scholarships, and educational opportunities. Your generosity opens doors to brighter futures and knowledge for those in need. Every donation here nurtures young minds and fosters learning. Join us in making education accessible to all.",
+    "Price": 210
+  },
+
+
+  {
+    "id": 11,
+    "Image": "https://i.ibb.co/qxr66Qn/Education.png",
+    "Category": "Education",
+    "Title": "Empowering Minds Through Quality Education",
+    "Category_bg": "bg-blue-300",
+    "Card_bg": "bg-blue-100",
+    "Text_color": "bg-blue-900",
+    "Description": "Your contributions in the Education category empower children and youth with quality education. Supporting this category means providing school supplies, scholarships, and educational opportunities. Your generosity opens doors to brighter futures and knowledge for those in need. Every donation here nurtures young minds and fosters learning. Join us in making education accessible to all.",
+    "Price": 200
   },
 
     
   {
-    "id": "10",
-    "image_url": "https://i.ibb.co/qxr66Qn/Education.png",
-    "category_name": "Education",
-    "category_title": "Empowering Minds Through Quality Education",
-    "bg_color": "#2196F3",
-    "text_color": "#FFFFFF",
-    "btn_color": "#FFC107",
-    "c_description": [
-      "Your contributions in the Education category empower children and youth with quality education.",
-      "Supporting this category means providing school supplies, scholarships, and educational opportunities.",
-      "Your generosity opens doors to brighter futures and knowledge for those in need.",
-      "Every donation here nurtures young minds and fosters learning.",
-      "Join us in making education accessible to all."
-    ],
-    "card_title": "Donate $200",
-    "full_view": "View Details",
-    "donation_price": 200
-  },
-
-    
-  {
-    "id": "11",
-    "image_url": "https://i.ibb.co/qxr66Qn/Education.png",
-    "category_name": "Education",
-    "category_title": "Unlocking Potential Through Learning",
-    "bg_color": "#2196F3",
-    "text_color": "#FFFFFF",
-    "btn_color": "#FFC107",
-    "c_description": [
-      "Your contributions in the Education category empower children and youth with quality education.",
-      "Supporting this category means providing school supplies, scholarships, and educational opportunities.",
-      "Your generosity opens doors to brighter futures and knowledge for those in need.",
-      "Every donation here nurtures young minds and fosters learning.",
-      "Join us in making education accessible to all."
-    ],
-    "card_title": "Donate $140",
-    "full_view": "View Details",
-    "donation_price": 140
-  },
-
-    
-  {
-    "id": "12",
-    "image_url": "https://i.ibb.co/qxr66Qn/Education.png",
-    "category_name": "Education",
-    "category_title": "Education: A Path to Brighter Futures",
-    "bg_color": "#2196F3",
-    "text_color": "#FFFFFF",
-    "btn_color": "#FFC107",
-    "c_description": [
-      "Your contributions in the Education category empower children and youth with quality education.",
-      "Supporting this category means providing school supplies, scholarships, and educational opportunities.",
-      "Your generosity opens doors to brighter futures and knowledge for those in need.",
-      "Every donation here nurtures young minds and fosters learning.",
-      "Join us in making education accessible to all."
-    ],
-    "card_title": "Donate $210",
-    "full_view": "View Details",
-    "donation_price": 210
+    "id": 12,
+    "Image": "https://i.ibb.co/qxr66Qn/Education.png",
+    "Category": "Education",
+    "Title": "Unlocking Potential Through Learning",
+    "Category_bg": "bg-blue-300",
+    "Card_bg": "bg-blue-100",
+    "Text_color": "bg-blue-900",
+    "Description": "Your contributions in the Education category empower children and youth with quality education. Supporting this category means providing school supplies, scholarships, and educational opportunities. Your generosity opens doors to brighter futures and knowledge for those in need. Every donation here nurtures young minds and fosters learning. Join us in making education accessible to all.",
+    "Price": 140
   }
 ]
+
+
+
+    
